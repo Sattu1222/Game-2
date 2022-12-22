@@ -1,1 +1,1 @@
-# Game-2
+# Python-Brick-Breaker-Game
